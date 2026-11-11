@@ -32,7 +32,7 @@ window.CLIENTS = {
     "stats": [
       {
         "label": "ОПЫТ",
-        "value": "07+ ЛЕТ"
+        "value": "7 ЛЕТ"
       },
       {
         "label": "РАБОТ",
@@ -46,25 +46,47 @@ window.CLIENTS = {
     "cases": [
       {
         "id": 1,
-        "name": "СЕРГЕЙ",
-        "tag": "ПЕРЕКРЫТИЕ (COVER-UP) СТАРОГО ПАРТАКА",
-        "badge": "ПЕРЕКРЫТИЕ ЗА 2 СЕАНСА",
-        "beforeImage": "/cases/tatu1_before.jpg",
-        "afterImage": "/cases/tatu1_after.jpg",
-        "description": "Сложное перекрытие старой некачественной татуировки плотной авторской графикой и реализмом. Чистая кожа без предварительного лазера.",
-        "initialStats": "СТАРЫЙ ПАРТАК // ПЛЕЧО",
-        "resultStats": "ЧИСТАЯ ГРАФИКА И ОБЪЕМ"
+        "name": "МАКСИМ",
+        "tag": "ЧЕРНО-БЕЛЫЙ РЕАЛИЗМ // ПРЕДПЛЕЧЬЕ",
+        "badge": "1 СЕАНС // 4 ЧАСА",
+        "afterImage": "/cases/tatu2_after.jpg",
+        "beforeImage": "/cases/tatu2_after.jpg",
+        "description": "Анатомическая посадка эскиза, бархатные градиенты серого (greywash) и ювелирная детализация шерсти хищника.",
+        "initialStats": "ПРЕДПЛЕЧЬЕ // 18 СМ",
+        "resultStats": "ЧИСТЫЙ РЕАЛИЗМ"
       },
       {
         "id": 2,
-        "name": "МАКСИМ",
-        "tag": "ЧЕРНО-БЕЛЫЙ РЕАЛИЗМ // ПРЕДПЛЕЧЬЕ",
-        "badge": "РЕАЛИЗМ ЗА 1 СЕАНС",
+        "name": "СЕРГЕЙ",
+        "tag": "ПЕРЕКРЫТИЕ (COVER-UP) СТАРОГО ПАРТАКА",
+        "badge": "2 СЕАНСА // БЕЗ ЛАЗЕРА",
+        "afterImage": "/cases/tatu1_after.jpg",
+        "beforeImage": "/cases/tatu1_after.jpg",
+        "description": "Сложное перекрытие старого армейского партака плотной авторской японской графикой и пионами. Полная маскировка без следов старой тату.",
+        "initialStats": "СТАРЫЙ ПАРТАК // ПЛЕЧО",
+        "resultStats": "ПЛОТНАЯ ЯПОНСКАЯ ГРАФИКА"
+      },
+      {
+        "id": 3,
+        "name": "АРТЕМ",
+        "tag": "ГРАФИЧЕСКИЙ РУКАВ // ГЕОМЕТРИЯ",
+        "badge": "3 СЕАНСА // ПРОЕКТ",
+        "afterImage": "/cases/tatu2_before.jpg",
         "beforeImage": "/cases/tatu2_before.jpg",
-        "afterImage": "/cases/tatu2_after.jpg",
-        "description": "Анатомическая посадка эскиза, тончайшие детализированные линии и плавные бархатные градиенты серого (greywash).",
-        "initialStats": "ЧИСТАЯ КОЖА // ЭСКИЗ",
-        "resultStats": "ДЕТАЛИЗИРОВАННЫЙ РЕАЛИЗМ"
+        "description": "Масштабный проект рукава в технике дотворк и випшейдинг с идеальной симметрией по мышечным линиям руки.",
+        "initialStats": "ПОЛНЫЙ РУКАВ // 38 СМ",
+        "resultStats": "ГЕОМЕТРИЯ & ДОТВОРК"
+      },
+      {
+        "id": 4,
+        "name": "ДЕНИС",
+        "tag": "МИКРОРЕАЛИЗМ & ТОНКИЕ ЛИНИИ",
+        "badge": "1 СЕАНС // 2.5 ЧАСА",
+        "afterImage": "/cases/tatu1_before.jpg",
+        "beforeImage": "/cases/tatu1_before.jpg",
+        "description": "Тончайшие контуры толщиной в одну иглу (Single Needle), безупречная четкость линий без подплывания пигмента.",
+        "initialStats": "КИСТЬ / ЗАПЯСТЬЕ // 10 СМ",
+        "resultStats": "ИДЕАЛЬНЫЙ МИКРОРЕАЛИЗМ"
       }
     ],
     "tiers": [
